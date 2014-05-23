@@ -1,0 +1,8 @@
+in javascript use = to assign a variable (called assignment operator) and use == to see if something is equal to something else
+
+use != for not equal
+
+iterate and loop mean the same thing
+
+
+changes....
